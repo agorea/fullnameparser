@@ -1,0 +1,19 @@
+{
+    "name": "agalbeaza-ro/fullnameparser",
+    "description": "Full Name Parser",
+    "authors": [
+        {
+            "name": "Alexandra Galbeaza",
+            "email": "agalbeaza@softia.ro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7"
+    },
+    "autoload": {
+        "psr-4": {
+            "FullNameParser\\": "src/"
+        }
+    }
+}
